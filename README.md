@@ -148,9 +148,12 @@ Fork the Project
       <td align="center">
         <a href="https://github.com/shoelfikar">
           <img width="150" src="https://avatars2.githubusercontent.com/u/55390061?s=400&u=cf1b3f5b68b4f984a45cc215c7b98150ab01276b&v=4" alt="Sulfikar"><br/>
-          <b>Sulfikar</b>
+          <b>Sulfikardi</b>
         </a>
       </td>
     </tr>
   </table>
 </center>
+
+---
+Copyright © 2020 [Azmi Prilly Naisa](https://github.com/azmprllynsa/)
