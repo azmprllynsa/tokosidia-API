@@ -1,12 +1,10 @@
 # Tokosidia API (CLONE Tokopedia)
 
 [![Node JS](https://img.shields.io/badge/Dependencies-Express%20JS-green)](https://nodejs.org/en/)
-![GitHub repo size](https://img.shields.io/github/repo-size/HiRahmat-Dev/tokosidia-API)
-![GitHub contributors](https://img.shields.io/github/contributors/HiRahmat-Dev/tokosidia-API)
-![GitHub stars](https://img.shields.io/github/stars/HiRahmat-Dev/tokosidia-API?style=social)
-![GitHub forks](https://img.shields.io/github/forks/HiRahmat-Dev/tokosidia-API?style=social)
-![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FHiRahmat-Dev%2Ftokosidia-API
-)
+![GitHub repo size](https://img.shields.io/github/repo-size/azmprllynsa/tokosidia-API)
+![GitHub contributors](https://img.shields.io/github/contributors/azmprllynsa/tokosidia-API)
+![GitHub stars](https://img.shields.io/github/stars/azmprllynsa/tokosidia-API?style=social)
+![GitHub forks](https://img.shields.io/github/forks/azmprllynsa/tokosidia-API?style=social)
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/HiRahmat-Dev/tokosidia-API/master/images/tokosidia-logo.png" target="blank">
