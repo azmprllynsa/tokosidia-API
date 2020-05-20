@@ -1,4 +1,4 @@
-# Tokosidia API (CLONE Tokopedia)
+<h1 align="center">Tokosidia API (Inspired by Tokopedia)</h1>
 
 [![Node JS](https://img.shields.io/badge/Dependencies-Express%20JS-green)](https://nodejs.org/en/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/azmprllynsa/tokosidia-API)
